@@ -1,4 +1,12 @@
+
 Last modified: 2017-11-27
+
+| Author | Email(s) |
+| ------ | ----- |
+| Jason T Clark | jtclark@linux.vnet.ibm.com |
+| Georg J. P. Link | glink@unomaha.edu |
+| Matt Germonprez | germonprez@gmail.com |
+
 
 # Introduction
 
