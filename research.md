@@ -64,7 +64,7 @@ From the Stackalytics site, a number of key metrics are collected from the code 
 - Reviews
 - Translations
 
-TODO: DEFINE EACH OF THE METRICS HERE
+_TODO: DEFINE EACH OF THE METRICS HERE_
 
 ### Code Contribution Filters
 
@@ -76,15 +76,27 @@ The data provided by each of these metrics can be filtered in a number of ways. 
 - Company
 - Contributor
 
-TODO: DEFINE EACH OF THE FILTERS HERE
-
+_TODO: DEFINE EACH OF THE FILTERS HERE_
 
 
 ## Software: [Apache Kibble](https://kibble.apache.org/)
 
+_TODO: DOCUMENT APACHE KIBBLE_
+
 ## Software: [GrimoireLab](https://grimoirelab.github.io/)
  - example: [OPNFV dashboard](https://opnfv.biterg.io)
- 
+
+ _TODO: DOCUMENT GRIMORIELAB_
+
+ _TODO: DOCUMENT OPNFV EXAMPLE_
+
+
 ## Software: [GHData](https://github.com/OSSHealth/ghdata)
+
+_TODO: DOCUMENT GHDATA_
+
+## Production Site: [OpenHub](https://www.openhub.net/)
+
+_TODO: DOCUMENT OPENHUB_
 
 # Comparative Analysis
