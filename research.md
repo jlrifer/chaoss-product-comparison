@@ -1,5 +1,5 @@
 
-Last modified: 2017-11-27
+Last modified: 2017-11-28
 
 | Author | Email(s) |
 | ------ | ----- |
@@ -64,7 +64,7 @@ From the Stackalytics site, a number of key metrics are collected from the code 
 - Reviews
 - Translations
 
-**Commits** are defined as
+**Commits** are defined as code contributions that have
 
 **Completed Blueprints** are
 
