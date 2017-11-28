@@ -64,7 +64,27 @@ From the Stackalytics site, a number of key metrics are collected from the code 
 - Reviews
 - Translations
 
-_TODO: DEFINE EACH OF THE METRICS HERE_
+**Commits** are defined as
+
+**Completed Blueprints** are
+
+**Drafted Blueprints** are
+
+**Emails** (as a metric) are defined as
+
+**Filed Bugs** are
+
+**Lines of Code** (as a metric) are
+
+**Patch Sets** are
+
+**Person-day effort** is metric determined by
+
+**Resolved Bugs** are
+
+**Reviews** are defined as
+
+**Translations** are defined as
 
 ### Code Contribution Filters
 
@@ -76,8 +96,20 @@ The data provided by each of these metrics can be filtered in a number of ways. 
 - Company
 - Contributor
 
-_TODO: DEFINE EACH OF THE FILTERS HERE_
+The **Release** filter
 
+The **Project Type** filter
+
+The **Module** filter
+
+The **Company** filter
+
+The **Contributor** filter
+
+
+### Data Visualization Examples
+
+_TODO: ADD CHARTS AND GRAPH SNAPSHOTS HERE_
 
 ## Software: [Apache Kibble](https://kibble.apache.org/)
 
