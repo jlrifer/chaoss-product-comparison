@@ -111,6 +111,14 @@ The **Contributor** filter
 
 _TODO: ADD CHARTS AND GRAPH SNAPSHOTS HERE_
 
+## Production Site: [OpenDaylight Spectrometer](https://spectrometer.opendaylight.org/)
+
+This was a fork of the Stackalytics but was rewritten quite a bit.
+
+GitHub Repo: https://github.com/opendaylight/spectrometer
+
+_TODO: DOCUMENT OpenDaylight Spectrometer_
+
 ## Software: [Apache Kibble](https://kibble.apache.org/)
 
 _TODO: DOCUMENT APACHE KIBBLE_
