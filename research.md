@@ -235,26 +235,31 @@ The general metrics that are produced by `gitstats` provide an overview of a pro
 
 #### Authors
 ##### List of Authors
+![List of Authors](images/gitstats-author-list-of.png)
 ##### Cumulated Added Lines of Code per Committer
+![Cumulated Added Lines of Code per Committer](images/gitstats-author-cumulated-added-loc.png)
 ##### Commits per Author
+![Commits per Author](images/gitstats-author-commits-per.png)
 ##### Author of the Month
+![Author of the Month](images/gitstats-author-of-month.png)
 ##### Author of the Year
+![Author of the Year](images/gitstats-author-of-year.png)
 ##### Commits by Domain
+![Commits by Domain](images/gitstats-author-commits-by-domain.png)
 
 #### Files
-##### Total Files
-##### Total Lines
-##### Average File Size
+##### Files Overview
+![Files Overview](images/gitstats-file-overview.png)
 ##### File Count by Date
+![File Count by Date](images/gitstats-file-count-by-date.png)
 ##### Extensions
+![Extensions](images/gitstats-file-extensions.png)
 
 #### Lines
-##### Total Lines
-##### Lines of Code
+![Lines](images/gitstats-lines.png)
 
 #### Tags
-##### Total Tags
-##### Average Commits per Tag
-##### List of Tags
+![Tags](images/gitstats-tags.png)
+
 
 # Comparative Analysis
