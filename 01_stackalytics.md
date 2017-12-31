@@ -21,37 +21,38 @@ From the Stackalytics site, a number of key metrics are collected from the code 
 * Translations
 
 #### Commits
-**Commits** are defined as code contributions that have
+Commits are defined as code contributions that have
 
 #### Completed Blueprints
-**Completed Blueprints** show blueprints that have been completed and lists the person made an effort to deliver the blueprint into upstream code.
+Completed Blueprints show blueprints that have been completed and lists the person made an effort to deliver the blueprint into upstream code.
 
 #### Drafted Blueprints
-**Drafted Blueprints** show all blueprints in LaunchPad, and lists the original author of each blueprint.
+Drafted Blueprints indicate all blueprints in LaunchPad, and lists the original author of each blueprint.
 
 #### Emails
-**Emails** (as a metric) are defined as
+Emails (as a metric) are defined as
 
 #### Filed Bugs
-**Filed Bugs** are
+Filed Bugs are
 
 #### Lines of Code
-**Lines of Code** (as a metric) are
+Lines of Code (as a metric) are
 
 #### Patch Sets
-**Patch Sets** are
+Patch Sets are
 
 #### Person-day effort
-**Person-day effort** is metric determined by
+Person-day effort is metric determined by
 
 #### Resolved Bugs
-**Resolved Bugs** are
+Resolved Bugs are
 
 #### Reviews
-**Reviews** are defined as
+Reviews are defined as
 
 #### Translations
-**Translations** are defined as
+Translations are defined as
+
 
 ### Contribution Filters
 
@@ -135,4 +136,5 @@ The **Contributor** filter allows the contribution metrics to be filtered by the
 
 ### Data Visualization Examples
 
-_TODO: ADD CHARTS AND GRAPH SNAPSHOTS HERE_
+Contributions by Companies
+![Contributions by Companies](images/stackalytics-contributions-by-company.png)
