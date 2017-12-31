@@ -21,22 +21,22 @@ From the Stackalytics site, a number of key metrics are collected from the code 
 * Translations
 
 #### Commits
-Commits are defined as code contributions that have
+Commits are defined as the number of code contributions that have been committed to an Openstack project/repo.
 
 #### Completed Blueprints
-Completed Blueprints show blueprints that have been completed and lists the person made an effort to deliver the blueprint into upstream code.
+Completed Blueprints indicates the number of blueprints that have been completed and is counted as the person who made an effort to deliver the blueprint into the upstream codebase.
 
 #### Drafted Blueprints
-Drafted Blueprints indicate all blueprints in LaunchPad, and lists the original author of each blueprint.
+Drafted Blueprints indicates the number all blueprints contributed to in OpenStack LaunchPad, and lists the original author of each blueprint.
 
 #### Emails
-Emails (as a metric) are defined as
+Emails (as a metric) indicate the number of emails sent/replied to OpenStack mailing lists.
 
 #### Filed Bugs
-Filed Bugs are
+Filed Bugs indicate the number of bugs filed on [Openstack LaunchPad](https://bugs.launchpad.net/openstack).
 
 #### Lines of Code
-Lines of Code (as a metric) are
+Lines of Code are
 
 #### Patch Sets
 Patch Sets are
@@ -133,6 +133,35 @@ The **Company** filter allows the contribution metrics to be filtered by contrib
 #### Contributor
 The **Contributor** filter allows the contribution metrics to be filtered by the name of the contributor as configured in Launchpad.
 
+The **Contributor** page shows an individual contributor's metrics. Example: [Eric Fried](http://stackalytics.com/?metric=commits&company=ibm&user_id=efried)
+
+From the contributor page, the following metrics are available:
+  * Name - The full name of the contributor
+  * Company - The company affiliation of the contributor
+  * LaunchPad - The LaunchPad account ID of the contributor
+  * Gerrit - The Openstack Gerrit ID of the contributor
+  * Core in - Indicates which OpenStack projects the contributor has core review permissions
+  * Activity Log - Displays the contributor's most recent Activity
+  * Contributions by Module - A pie-graph indicating which Openstack modules have been contributed to
+  * Commits by Module - Indicates the number of commits per Openstack module
+  * Contribution Summary - Captures the following commit metrics:
+    * Commits
+    * LOCs
+    * Do not merge
+    * Patch needs further work
+    * Looks good
+    * Looks good for core
+    * Approve
+    * Abandon
+    * Change Requests
+    * Patch Sets
+    * Draft Blueprints
+    * Completed Blueprints
+    * Filed Bugs
+    * Resolved Bugs
+    * Emails
+    * Translations
+
 
 ### Data Visualization Examples
 
@@ -142,3 +171,12 @@ The **Contributor** filter allows the contribution metrics to be filtered by the
 #### Contributions by Modules
 
 ![Contributions by Modules](images/stackalytics-contributions-by-module.png)
+
+
+#### Contributions Summary
+
+![Contributions Summary](images/stackalytics-contributions-summary.png)
+
+#### Reviews by Year (2017)
+
+![Reviews by Year](images/stackalytics-reviews-by-year.png)
