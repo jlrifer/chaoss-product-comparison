@@ -8,59 +8,129 @@ The Stackalytics (OpenStack Analytics) site was developed my the Mirantis corpor
 
 From the Stackalytics site, a number of key metrics are collected from the code contributions made by the OpenStack community. They include:
 
-- Commits
-- Completed Blueprints
-- Drafted Blueprints
-- Emails
-- Filed Bugs
-- Lines of Code
-- Patch Sets
-- Person-day effort
-- Resolved Bugs
-- Reviews
-- Translations
+* Commits
+* Completed Blueprints
+* Drafted Blueprints
+* Emails
+* Filed Bugs
+* Lines of Code
+* Patch Sets
+* Person-day effort
+* Resolved Bugs
+* Reviews
+* Translations
 
+#### Commits
 **Commits** are defined as code contributions that have
 
-**Completed Blueprints** are
+#### Completed Blueprints
+**Completed Blueprints** show blueprints that have been completed and lists the person made an effort to deliver the blueprint into upstream code.
 
-**Drafted Blueprints** are
+#### Drafted Blueprints
+**Drafted Blueprints** show all blueprints in LaunchPad, and lists the original author of each blueprint.
 
+#### Emails
 **Emails** (as a metric) are defined as
 
+#### Filed Bugs
 **Filed Bugs** are
 
+#### Lines of Code
 **Lines of Code** (as a metric) are
 
+#### Patch Sets
 **Patch Sets** are
 
+#### Person-day effort
 **Person-day effort** is metric determined by
 
+#### Resolved Bugs
 **Resolved Bugs** are
 
+#### Reviews
 **Reviews** are defined as
 
+#### Translations
 **Translations** are defined as
 
-### Code Contribution Filters
+### Contribution Filters
 
 The data provided by each of these metrics can be filtered in a number of ways. They are as follows:
 
-- Release
-- Project Type
-- Module
-- Company
-- Contributor
+* Release
+* Project Type
+* Module
+* Company
+* Contributor
 
-The **Release** filter
+#### Release
+The **Release** filter allows the metrics to be filtered by the official OpenStack releases. At the time of this writing, the current releases available to be filtered by are:
+  * Austin
+  * Bexar
+  * Cactus
+  * Diablo
+  * Essex
+  * Folsom
+  * Grizzly
+  * Havana
+  * Icehouse
+  * Juno
+  * Kilo
+  * Liberty
+  * Mitaka
+  * Newton
+  * Ocata
+  * Pike
+  * Queens
 
-The **Project Type** filter
+#### Project Type
+The **Project Type** filter allows the contribution metrics to be filtered by project type. At the time of this writing, there are two parent-project types:
 
-The **Module** filter
+  * **OpenStack** projects are projects that are defined by the OpenStack Governance committee, which include two project subtypes:
+    * Official
+    * TC-approved
+    * Others - projects that are **not** included in any OpenStack program.
 
-The **Company** filter
+  * **Complimentary** indicates projects that are part of the OpenStack ecosystem, which includes 9 project subtypes:
+    * Ansible
+    * Ceph
+    * Cloud Foundry
+    * Docker
+    * Kubernetes
+    * OPNFV
+    * OpenShift
+    * Open vSwitch
+    * Python Packaging
 
-The **Contributor** filter
+#### Module
+The **Module** filter allows the contribution metrics to be filtered by repositories, official projects, or pre-configured groups of modules.  This list of modules is quite large, but some of them include:
+  * Barbican Official
+  * Blazar Official
+  * Ceilometer Official
+  * Chef Openstack Official
+  * Cinder Official
+  * Cloudkitty Official
+  * Congress Official
+  * Cyborg Official
+  * Designate Official
+  * Documentation Official
+  * Glance Official
+  * Heat Official
+  * Horizon Official
+  * I18N Official
+  * Infrastructure
+  * anchor
+  * ansible-hardening
+  * ansible-role-k8s-cookiecutter
+  * bifrost
+  * bindep
+  * ciwatch
+
+#### Company
+The **Company** filter allows the contribution metrics to be filtered by contributors based on their company affiliation.
+
+#### Contributor
+The **Contributor** filter allows the contribution metrics to be filtered by the name of the contributor as configured in Launchpad.
 
 
 ### Data Visualization Examples
