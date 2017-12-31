@@ -136,5 +136,9 @@ The **Contributor** filter allows the contribution metrics to be filtered by the
 
 ### Data Visualization Examples
 
-Contributions by Companies
+#### Contributions by Companies
 ![Contributions by Companies](images/stackalytics-contributions-by-company.png)
+
+#### Contributions by Modules
+
+![Contributions by Modules](images/stackalytics-contributions-by-module.png)
