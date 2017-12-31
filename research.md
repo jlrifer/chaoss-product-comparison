@@ -17,7 +17,7 @@ To achieve this goal, our community members are defining which key metrics accur
 
 ## Purpose
 
-The purpose of this research is to provide a side-by-side comparison of the tools and community sites that reflect the health of the open-source software projects they monitor. By conducting this research, the CHAOSS community is afforded the opportunity to assess the following from each of the community health monitoring tools assesed:
+The purpose of this research is to provide a side-by-side comparison of the tools and community sites that reflect the health of the open-source software projects they monitor. By conducting this research, the CHAOSS community is afforded the opportunity to assess the following from each of the community health monitoring tools assessed:
 
 - Key contribution metrics
 - Components/Features available
@@ -74,3 +74,5 @@ See [06_openhub.md](06_openhub.md) for documentation.
 See [07_gitstats.md](07_gitstats.md) for documentation.
 
 # Comparative Analysis
+
+_TODO: PROVIDE THE COMPARATIVE ANALYSIS HERE._
