@@ -22,36 +22,40 @@ From the Stackalytics site, a number of key metrics are collected from the code 
 
 #### Commits
 Commits are defined as the number of code contributions that have been committed to an Openstack project/repo.
+_Note: There may be a more accurate way to describe this metric_
 
 #### Completed Blueprints
 Completed Blueprints indicates the number of blueprints that have been completed and is counted as the person who made an effort to deliver the blueprint into the upstream codebase.
 
 #### Drafted Blueprints
-Drafted Blueprints indicates the number all blueprints contributed to in OpenStack LaunchPad, and lists the original author of each blueprint.
+Drafted Blueprints indicates the number all blueprints contributed to in OpenStack LaunchPad, and reflect the original author of each blueprint.
 
 #### Emails
-Emails (as a metric) indicate the number of emails sent/replied to OpenStack mailing lists.
+Emails (as a metric) indicate the number of emails sent/replied to on OpenStack mailing lists.
 
 #### Filed Bugs
 Filed Bugs indicate the number of bugs filed on [Openstack LaunchPad](https://bugs.launchpad.net/openstack).
 
 #### Lines of Code
-Lines of Code are
+Lines of Code is a metric calculated by the number of lines of code provided in a committed patch or patch set.
 
 #### Patch Sets
-Patch Sets are
+A Patch Set is defined as a single commit uploaded or updated on an Openstack project/repo. Patch Set may reflect modifications made to a previously uploaded or updated commit.
+_Note: There may be a more accurate way to describe this metric_
 
 #### Person-day effort
-Person-day effort is metric determined by
+_Note: Unsure of how this is determined. More research is required._
 
 #### Resolved Bugs
-Resolved Bugs are
+Resolved Bugs are defined as the number of Openstack LaunchPad bugs that have been resolved with a status of:
+  * Committed
+  * Fix Released
 
 #### Reviews
-Reviews are defined as
+Reviews are defined as Code-Review (-1, 0, +1, +2) replies to changes committed to Openstack projects/repos.
 
 #### Translations
-Translations are defined as
+Translations are defined as the number of words translated into a one of the supported languages in the Openstack documentation.
 
 
 ### Contribution Filters
@@ -180,3 +184,6 @@ From the contributor page, the following metrics are available:
 #### Reviews by Year (2017)
 
 ![Reviews by Year](images/stackalytics-reviews-by-year.png)
+
+#### Translations by Language (openstack-manuals)
+![Translations by Language](images/stackalytics-translations-by-lang.png)
