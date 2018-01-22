@@ -4,6 +4,10 @@
 
 The Stackalytics (OpenStack Analytics) site was developed my the Mirantis corporation in 2013 to provide OpenStack with an analytics tool that collects code contributions data, vendor drivers information, and a community members directory. As [defined by Mirantis](https://www.mirantis.com/blog/stackalytics-com-whos-growing-the-openstack-pie/), _"Stackalytics is a data visualization tool that collects data from GitHub and presents it in an array of useful forms."_
 
+### Evaluation Method
+
+The method used to collect the information provided in this research was the basic observation of the production website. As a member of the OpenStack community, I was also able to use my account to log into the Gerrit website, for additional evaluation of the repositories reported on at Stackalytics.
+
 ### Metrics
 
 From the Stackalytics site, a number of key metrics are collected from the code contributions made by the OpenStack community. They include:
