@@ -1,4 +1,7 @@
-## Software/Production Site: [Apache Kibble](https://github.com/apache/kibble)
+## Production Site: [Apache Kibble](https://kibble.apache.org/)
+
+![apache-kibble-logo](https://github.com/apache/kibble/blob/master/ui/images/kibble-logo.png)
+
 
 Apache Kibble is a suite of tools for collecting, aggregating and visualizing activity in software projects. 
 
@@ -17,6 +20,13 @@ From the Kibble UI, a number of key metrics are collected. They include:
 * Number of commits by an author
 * Number of deletions by an author
 * Number of insertions by an author
+* Commit History
+* Active Developers Per Month
+* Lines Changed
+* Code Evolution
+* Top Repos by Lines of Code
+* Top Repos by Commits
+* Pony Factor
 
 #### Commit Authors
 The commit authors indicate the amount of users who committed to the project. A percentage is provided to show an increase or decrease for the number authors based on previous data. 
@@ -33,13 +43,13 @@ The number of committers indicate the amount of people who committed to the proj
 #### Percent of each programming language
 The percent of each programming language indicates the prevelance of each programming language in project. 
 
-### Percent of code
+#### Percent of code
 The percent of code indicates the prevelance of code in the project when compared to the percent of comments and blanks. 
 
-### Percent of comments
+#### Percent of comments
 The percent of comments indicates the prevelance of comments in the project when compared to the percent of code and blanks. 
 
-### Percent of blanks
+#### Percent of blanks
 The percent of blanks indicates the prevelance of blanks in the project when compared to the percent of code and comments. 
 
 #### Top 5 contributors
@@ -54,9 +64,33 @@ The number of deletions by an author indicates how many times an author has made
 #### Number of insertions by an author
 The number of insertions by an author indicates how many times an author has inserted to the project. Currently information on only the top 5 authors is available. 
 
-### Filters
-
+#### Filters
 Metrics may be evaluated by date or repository source. 
+
+
+#### Commit History
+Commit History shows how many commits have been made to the repositories over a specified time period.
+
+#### Active Developers Per Month
+Compares the amount of commiters and authors that were active each month.
+
+#### Lines Changed
+Lines Changed compares the number of insertions and deletions made to the repositories each day.
+
+#### Code Evolution
+Code Evolution shows the number of code, comment, and blank lines in the code each month.
+
+#### Top Repos by Lines of Code
+This metric shows which repositories have the most lines of codes.
+
+#### Top Repos by Commits
+This metric shows which repositories have the most commits
+
+#### Pony Factor
+Pony factor is “the lowest number of committers whose total contribution constitutes the majority of the codebase.” 
+A more in depth explanation of this metric can be found here: https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/
+
+
 
 ### Data Visualization Examples
 #### Commit Trends
@@ -74,4 +108,24 @@ Metrics may be evaluated by date or repository source.
 #### Relationships 
 ![Relationships](https://user-images.githubusercontent.com/22136995/36505780-2ee9af2c-171a-11e8-8eb9-0a60bb5e5f84.jpg)
 
+#### Commit History
+![Commit History](images/kibble-commit-history.png)
 
+#### Active Developers Per Month
+![Active Developer](images/kibble-active-per-month.png)
+
+#### Lines Changed
+![Lines Changed](images/kibble-lines-changed.png)
+
+#### Code Evolution
+![Code Evolution](images/kibble-code-evolution.png)
+
+#### Top Repos by Lines of Code
+![Lines Of_Code](images/kibble-lines-of-code.png)
+
+#### Top Repos by Commits
+![Repos By_Commit](images/kibble-repos-by-commit.png)
+
+#### Pony Factor
+![Pony_Factor](images/kibble-pony-factors.png)
+![Pony_Factor_Over_Time](images/kibble-pony-over-time.png)
