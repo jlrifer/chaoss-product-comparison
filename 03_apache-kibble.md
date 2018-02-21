@@ -43,13 +43,13 @@ The number of committers indicate the amount of people who committed to the proj
 #### Percent of each programming language
 The percent of each programming language indicates the prevelance of each programming language in project. 
 
-### Percent of code
+#### Percent of code
 The percent of code indicates the prevelance of code in the project when compared to the percent of comments and blanks. 
 
-### Percent of comments
+#### Percent of comments
 The percent of comments indicates the prevelance of comments in the project when compared to the percent of code and blanks. 
 
-### Percent of blanks
+#### Percent of blanks
 The percent of blanks indicates the prevelance of blanks in the project when compared to the percent of code and comments. 
 
 #### Top 5 contributors
@@ -64,7 +64,7 @@ The number of deletions by an author indicates how many times an author has made
 #### Number of insertions by an author
 The number of insertions by an author indicates how many times an author has inserted to the project. Currently information on only the top 5 authors is available. 
 
-### Filters
+#### Filters
 Metrics may be evaluated by date or repository source. 
 
 
@@ -86,7 +86,7 @@ This metric shows which repositories have the most lines of codes.
 #### Top Repos by Commits
 This metric shows which repositories have the most commits
 
-### Pony Factor
+#### Pony Factor
 Pony factor is “the lowest number of committers whose total contribution constitutes the majority of the codebase.” 
 A more in depth explanation of this metric can be found here: https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/
 
