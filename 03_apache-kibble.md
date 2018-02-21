@@ -1,4 +1,4 @@
-## Production Site: [Apache Kibble](https://github.com/apache/kibble)
+## Production Site: [Apache Kibble](https://kibble.apache.org/)
 
 ![apache-kibble-logo](https://github.com/apache/kibble/blob/master/ui/images/kibble-logo.png)
 
