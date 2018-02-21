@@ -1,4 +1,7 @@
-## Software/Production Site: [Apache Kibble](https://github.com/apache/kibble)
+## Production Site: [Apache Kibble](https://github.com/apache/kibble)
+
+![apache-kibble-logo](https://github.com/apache/kibble/blob/master/ui/images/kibble-logo.png)
+
 
 Apache Kibble is a suite of tools for collecting, aggregating and visualizing activity in software projects. 
 
@@ -17,6 +20,13 @@ From the Kibble UI, a number of key metrics are collected. They include:
 * Number of commits by an author
 * Number of deletions by an author
 * Number of insertions by an author
+* Commit History
+* Active Developers Per Month
+* Lines Changed
+* Code Evolution
+* Top Repos by Lines of Code
+* Top Repos by Commits
+* Pony Factor
 
 #### Commit Authors
 The commit authors indicate the amount of users who committed to the project. A percentage is provided to show an increase or decrease for the number authors based on previous data. 
@@ -55,8 +65,32 @@ The number of deletions by an author indicates how many times an author has made
 The number of insertions by an author indicates how many times an author has inserted to the project. Currently information on only the top 5 authors is available. 
 
 ### Filters
-
 Metrics may be evaluated by date or repository source. 
+
+
+#### Commit History
+Commit History shows how many commits have been made to the repositories over a specified time period.
+
+#### Active Developers Per Month
+Compares the amount of commiters and authors that were active each month.
+
+#### Lines Changed
+Lines Changed compares the number of insertions and deletions made to the repositories each day.
+
+#### Code Evolution
+Code Evolution shows the number of code, comment, and blank lines in the code each month.
+
+#### Top Repos by Lines of Code
+This metric shows which repositories have the most lines of codes.
+
+#### Top Repos by Commits
+This metric shows which repositories have the most commits
+
+### Pony Factor
+Pony factor is “the lowest number of committers whose total contribution constitutes the majority of the codebase.” 
+A more in depth explanation of this metric can be found here: https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/
+
+
 
 ### Data Visualization Examples
 #### Commit Trends
