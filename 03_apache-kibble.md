@@ -43,7 +43,7 @@ The percent of comments indicates the prevelance of comments in the project when
 The percent of blanks indicates the prevelance of blanks in the project when compared to the percent of code and comments. 
 
 #### Top 5 contributors
-The top 5 contributors displays the top 5 contributors to the project.
+The top 5 contributors displays the top 5 contributors to the project. 
 
 #### Number of commits by an author
 The number of commits by an author indicates how many times an author has committed to the project. Currently information on only the top 5 authors is available. 
