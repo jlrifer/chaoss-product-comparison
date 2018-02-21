@@ -60,12 +60,18 @@ Metrics may be evaluated by date or repository source.
 
 ### Data Visualization Examples
 #### Commit Trends
+![Commit Trends](https://user-images.githubusercontent.com/22136995/36503717-a845f77e-1713-11e8-8ce5-9b1b862c9cca.jpg)
 
 #### Language breakdown by programming language
+![Language breakdown by programming language](https://user-images.githubusercontent.com/22136995/36503726-b05df72c-1713-11e8-8232-05ae3ae69e22.jpg)
 
 #### Commit Language breakdown 
+![Commit language breakdown](https://user-images.githubusercontent.com/22136995/36503725-b0470d6e-1713-11e8-89b5-0c8a98eb5739.jpg)
 
 #### Top 5 contributors
+![Top 5 Contributors](https://user-images.githubusercontent.com/22136995/36503736-b505d542-1713-11e8-97dc-e8ef3d339226.jpg)
 
+#### Relationships 
+![Relationships](https://user-images.githubusercontent.com/22136995/36505780-2ee9af2c-171a-11e8-8eb9-0a60bb5e5f84.jpg)
 
 
