@@ -101,5 +101,18 @@ A more in depth explanation of this metric can be found here: https://ke4qqq.wor
 
 #### Top 5 contributors
 
-
-
+#### Commit History
+![Commit History](images/kibble-commit-history.png)
+#### Active Developers Per Month
+![Active Developer](images/kibble-active-per-month.png)
+#### Lines Changed
+![Lines Changed](images/kibble-lines-changed.png)
+#### Code Evolution
+![Code Evolution](images/kibble-code-evolution.png)
+#### Top Repos by Lines of Code
+![Lines Of_Code](images/kibble-lines-of-code.png)
+#### Top Repos by Commits
+![Repos By_Commit](images/kibble-repos-by-commit.png)
+#### Pony Factor
+![Pony_Factor](images/kibble-pony-factors.png)
+![Pony_Factor_Over_Time](images/kibble-pony-over-time.png)
